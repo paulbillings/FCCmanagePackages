@@ -1,14 +1,23 @@
 {
   "name": "@paulbillings/manage-packages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "Paul Billings",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
+  "description": "This is a freeCodeCamp lesson.",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulbillings/FCCmanagePackages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulbillings/FCCmanagePackages/issues"
+  },
+  "homepage": "https://github.com/paulbillings/FCCmanagePackages#readme"
 }
