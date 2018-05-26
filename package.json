@@ -1,0 +1,14 @@
+{
+  "name": "@paulbillings/manage-packages",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Paul Billings",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
